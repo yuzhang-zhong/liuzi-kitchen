@@ -200,7 +200,7 @@ liuzi-kitchen/
 通过 GitHub URL 安装：
 
 ```bash
-npx skills install https://github.com/Vincenshat/liuzi-kitchen
+npx skills install https://github.com/yuzhang-zhong/liuzi-kitchen
 ```
 
 或者把本目录放到 Codex skills 目录：
@@ -249,7 +249,7 @@ It supports six core modes:
 Install:
 
 ```bash
-npx skills install https://github.com/Vincenshat/liuzi-kitchen
+npx skills install https://github.com/yuzhang-zhong/liuzi-kitchen
 ```
 
 ## Sources
