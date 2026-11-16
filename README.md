@@ -6,17 +6,16 @@
 
 **先看冰箱、预算和厨具，再决定今天吃什么。**
 
-A bilingual kitchen skill for the reality of student cooking.
+A bilingual Codex skill for planning and cooking student meals.
 
 [![Codex Skill](https://img.shields.io/badge/Agent-Codex_Skill-2563eb)](SKILL.md)
 [![Python](https://img.shields.io/badge/3_个工具-Python_标准库-3776AB)](#三个可以独立运行的小工具)
-[![Language](https://img.shields.io/badge/用法-中文_%2F_English-0f766e)](#english)
 
 [开始使用](#三步开始) · [实际输出](#一分钟看懂采购量助手) · [六种模式](#六种模式一套厨房) · [独立工具](#三个可以独立运行的小工具) · [安全边界](#安全价格和信息边界) · [English](#english)
 
 </div>
 
-一口锅、一个电饭煲、共用冰箱，和不想再浪费的半颗白菜。留子厨房不是静态菜谱合集，而是一个 **Codex Skill + 三个 Python 小工具**：从人数、库存、过敏限制、时间与预算出发，把做饭拆成能采购、能执行、能调整的下一步。
+一口锅、一个电饭煲、共用冰箱，和不想再浪费的半颗白菜。留子厨房由 **Codex Skill 和三个 Python 小工具**组成，从人数、库存、过敏限制、时间与预算出发，帮你安排采购和做饭，也能在情况变化时接着调整。
 
 > 想好吃什么 → 算清买多少 → 检查安全与限制 → 做饭中调整 → 安全地复用剩菜
 
