@@ -4,6 +4,8 @@
 
 # 留子厨房 · Liuzi Kitchen
 
+**简体中文** · [English (full README)](README.en.md)
+
 **先看冰箱、预算和厨具，再决定今天吃什么。**
 
 A bilingual Codex skill for planning and cooking student meals.
